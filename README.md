@@ -1,5 +1,6 @@
 # Predicting Health Risks, Stay Healthy, Stay Ahead!
 
+![img alt](https://github.com/Melina28072010/Predicting-Health-Risks-Stay-Healthy-Stay-Ahead/blob/8ec6a09b212ec41be9cc48bd719667346d04de25/Image%20of%20Health%20Risks.gif)
 # Datasets:
 • [2011-2015 Dataset](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system)
 • [Dataset (2011-2015)](https://drive.google.com/drive/folders/1Xa3b5MWPIY7AbvxB_XqfZ52hKZ5g5nko?usp=sharing)
