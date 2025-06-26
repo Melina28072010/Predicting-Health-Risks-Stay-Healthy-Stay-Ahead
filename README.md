@@ -39,3 +39,6 @@ Milestone 3.1: In this part of our project we managed to create a Google colab n
 or a regression problem).
 
 Milestone 3.2: Here we presented an elongated Powerpoint explaining our problem once again. Also, our data analysis from milestone 3.1 and what we've learned from it with advantages added on every visualization. Last of all, our adjustments that we've made until this point.
+
+# Milestone 4
+Here we implemented baseline models into our code with their evaluations respectively. The models we presented were kNN (k-nearest neighbors), logistic regression and a decision tree (classification). Furthermore, we provided loss functions for each such as binary cross entropy, Mean Squared Error (MSE) and Gini Index to ensure maximized accuracy. Lastly, for we evaluated each model's accuracy using MSE, accuracy, Precision, Recall, F1score and a Confusion Matrix.
