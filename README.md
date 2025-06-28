@@ -6,6 +6,10 @@
 • [Dataset (2011-2015)](https://drive.google.com/drive/folders/1Xa3b5MWPIY7AbvxB_XqfZ52hKZ5g5nko?usp=sharing)
 • [2023 Dataset](https://www.cdc.gov/brfss/annual_data/annual_data.htm)
 
+Problem Statement: Health issues like heart disease, diabetes, and obesity are on the rise, and understanding how lifestyle choices impact these conditions is more important than ever. Early prediction of health risks can help people make better choices and lead healthier lives.
+
+
+
 # Steps
 • Data Cleaning: Handle missing values and standardize lifestyle-related variables.
 
