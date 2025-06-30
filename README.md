@@ -33,7 +33,7 @@ and understanding how life choices impact these conditions are more important th
 
 # Milestone 2
 In this milestone, we managed to bind a PowerPoint explaining each step above individually and how we are planning to use them to solve our problem.
-Furthermore, our innovation was added and why we picked this problem statement initially as we were confident that tackling this problem was possible.
+In addition, our innovation was added and why we picked this problem statement initially as we were confident that tackling this problem was possible.
 As we're both extremely interested in medicine we thought that this would be the ideal project to work on and that would stimulate our ability to work
 more efficiently as a group.
 
