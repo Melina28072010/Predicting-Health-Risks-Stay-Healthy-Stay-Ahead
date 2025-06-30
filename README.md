@@ -11,7 +11,7 @@ Health issues like heart disease, diabetes, and obesity are on the rise, and und
 # Steps
 • Data Cleaning: Handle missing values and standardize lifestyle-related variables.
 
-• EDA: Explore correlations between lifestyle factors (e.g., smoking, exercise) and health outcomes (e.g., diabetes, heart disease).
+• EDA: Explore correlations between lifestyle factors (e.g., smoking, exercise) and health outcomes (focus on heart disease).
 
 • Feature Engineering: Create aggregated health indices, lifestyle scores, and demographic profiles.
 
