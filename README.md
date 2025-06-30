@@ -2,7 +2,7 @@
 
 ![img alt](https://github.com/Melina28072010/Predicting-Health-Risks-Stay-Healthy-Stay-Ahead/blob/8ec6a09b212ec41be9cc48bd719667346d04de25/Image%20of%20Health%20Risks.gif)
 # Dataset:
-• [Heart Attack Dataset](https://drive.google.com/file/d/1KVsmdFNsy8x3pqYsxlN1V-RJvV9aRgRI/view?usp=drivesdk)
+• [Heart Attack Prediction Dataset](https://drive.google.com/file/d/1KVsmdFNsy8x3pqYsxlN1V-RJvV9aRgRI/view?usp=drivesdk)
 # Problem Statement:
 Health issues like heart disease, diabetes, and obesity are on the rise, and understanding how lifestyle choices impact these conditions is more important than ever. Early prediction of health risks can help people make better choices and lead healthier lives.
 
