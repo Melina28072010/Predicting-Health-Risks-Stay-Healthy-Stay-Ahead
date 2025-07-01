@@ -40,10 +40,6 @@ Milestone 3.1: In this part of our project we managed to create a Google colab n
 (bar charts, line graphs, pie charts, scatter plots). We basically encountered what we're dealing with and what we will take into account (e.g it's classification
 or a regression problem).
 
-![image](https://github.com/user-attachments/assets/c66fa072-0910-4020-b9e3-6b820da90df7) ![image](https://github.com/user-attachments/assets/b43a87a2-dc39-4184-bed1-f8106b55d1bc)
-
-
-
 Milestone 3.2: Here we presented an elongated Powerpoint explaining our problem once again. Also, our data analysis from milestone 3.1 and what we've learned from it with advantages added on every visualization. Last of all, our adjustments that we've made until this point.
 
 # Milestone 4
