@@ -44,3 +44,5 @@ Milestone 3.2: Here we presented an elongated Powerpoint explaining our problem 
 
 # Milestone 4
 Here we implemented baseline models into our code with their evaluations respectively. The models we presented were kNN (k-nearest neighbors), logistic regression and a decision tree (classification). Furthermore, we provided loss functions for each such as binary cross entropy, Mean Squared Error (MSE) and Gini Index to evaluate how well our models are performing. Lastly, we further evaluated each model's accuracy using MSE, accuracy, Precision, Recall, F1score and a Confusion Matrix.
+![image](https://github.com/user-attachments/assets/4c78e020-2e9f-4702-baa0-0f65960d3165)
+
