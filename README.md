@@ -47,10 +47,6 @@ Here we implemented baseline models into our code with their evaluations respect
 
 # Milestone 5
 In this miledtone we utilized a total of 8 models, these include: Logistic Regression, K-Nearest Neighbors, Decision Tree Classifier, Random Forest, Bagging, XGBoost and AdaBoost. We applied loss functions for each such as binary cross entropy, Mean Squared Error (MSE), Gini Index, Accuracy, Precision, Recall, F1score, a Confusion Matrix and a ROC AUC Curve to evaluate our models and to also compare them to reach the conclusion of which is the best model. Overall, we agreed that the best model was XGBoost with a relatively high accuracy of 0.59. However, there were other models with higher accuracy such as bagging (0.62) and the Decision Tree (0.62). The reason we viewed this as the best model was due to its completeness of having both a decent recall (0.23) and the highest precision (0.39) which lead it having a good F1 score of 0.3 in comparison to our other models. Lastly, it handled complex patters better than other models and had one of the lowest log loss. Unsurprisingly, the worst model was KNN with the lowest accuracy of 0.49. In addition to that, its performance was the lowest for precision (0.34) and somewhat good for recall (0.45) meaning a 0.39 for F1 score. Lastly, it had the most false alarms which isn’t ideal for predicting heart disease.
-![image](https://github.com/user-attachments/assets/6b73837a-617e-468d-b389-6b3e96bfa80c)
-
-
-![image](https://github.com/user-attachments/assets/f6a7db1c-794a-4277-a9b2-210d976f8d3b)
 
 ![image](https://github.com/user-attachments/assets/4c78e020-2e9f-4702-baa0-0f65960d3165)
 
